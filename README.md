@@ -181,21 +181,11 @@ def train_model(model, train_loader,test_loader,num_epochs=10):
 
 
 ### New Sample Prediction
-![image](https://github.com/user-attachments/assets/7a1106cb-8a7d-493d-8572-13482975015f)
+![image](https://github.com/user-attachments/assets/8bbe4095-a7ca-464b-ab12-dc34190590a2)
 
-![image](https://github.com/user-attachments/assets/5e4c3b96-c003-4261-80c4-1b6b44a56ec4)
 
-## RESULT
-Thus, the transfer Learning for classification using VGG-19 architecture has succesfully implemented.
+![image](https://github.com/user-attachments/assets/5ed5d26e-eb31-4fd4-b414-b0aa1bba4111)
 
-### Classification Report
-
-![image](https://github.com/user-attachments/assets/54308e89-575d-4f69-ae53-9322225e494e)
-
-### New Sample Prediction
-![image](https://github.com/user-attachments/assets/7a1106cb-8a7d-493d-8572-13482975015f)
-
-![image](https://github.com/user-attachments/assets/5e4c3b96-c003-4261-80c4-1b6b44a56ec4)
 
 ## RESULT
 Thus, the transfer Learning for classification using VGG-19 architecture has succesfully implemented.
