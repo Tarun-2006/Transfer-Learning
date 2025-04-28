@@ -86,7 +86,8 @@ def train_model(model, train_loader,test_loader,num_epochs=10):
 
 ### Confusion Matrix
 
-![image](https://github.com/user-attachments/assets/203e8064-fd07-47dd-b950-cc885d293ba6)
+![image](https://github.com/user-attachments/assets/b9777696-8331-4c1a-8609-4fc90c77d347)
+
 
 ### Classification Report
 
